@@ -127,5 +127,4 @@ Contact
 - Maintainer: HeroicKrishna160905
 - For help, open issues on this repository.
 
-Notes
-This README is structured to be adaptable: once you confirm the exact notebooks and modules present in the repo, I can tailor the descriptions and example commands to match files, function names, and any required credentials or dependencies.
+
